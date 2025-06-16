@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "48 Laws Power Wallpaper",
+  "version": "2.1",
+  "description": "A random quote from The 48 Laws of Power every time you open a new tab.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "icons": {
+    "128": "icon.png"
+  }
+}

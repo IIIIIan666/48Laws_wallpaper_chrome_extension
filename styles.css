@@ -1,0 +1,33 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: 'Georgia', serif;
+  color: gold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+#law-container {
+  background: rgba(0, 0, 0, 0.65);
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+  text-align: center;
+  animation: fadeIn 1s ease-in-out;
+}
+
+#law-text {
+  font-size: 28px;
+  line-height: 1.6;
+  text-shadow: 1px 1px 6px black;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

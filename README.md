@@ -11,7 +11,7 @@ The goal of this project is to present timeless principles of power in a clean, 
 
 ## Credits
 
-- Laws originally inspired by [acekyd/Random48LawsOfPower](https://github.com/acekyd/Random48LawsOfPower)
+- Originally inspired by [acekyd/Random48LawsOfPower](https://github.com/acekyd/Random48LawsOfPower)
 - Fonts from [Google Fonts](https://fonts.google.com):
   - [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
   - [Cinzel](https://fonts.google.com/specimen/Cinzel)

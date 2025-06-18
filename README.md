@@ -9,6 +9,9 @@ The goal of this project is to present timeless principles of power in a clean, 
 - Displays a random law each time a new tab is opened
 - Full-screen random background images
 
+## Chrome Web Store link
+- https://chromewebstore.google.com/detail/iopmmgdkebfdpinobjdlgepahdmmdjcd?utm_source=item-share-cb
+
 ## Credits
 
 - Originally inspired by [acekyd/Random48LawsOfPower](https://github.com/acekyd/Random48LawsOfPower)
